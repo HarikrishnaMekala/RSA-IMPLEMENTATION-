@@ -1,6 +1,6 @@
 # RSA_Encryption_Decryption
 
-This project demonstrates a simple and educational implementation of the **RSA cryptographic algorithm** using Python. It includes interactive encryption and decryption of plain text, RSA key generation using basic number theory concepts, and a brief report with results.
+This project demonstrates a simple and educational implementation of the **RSA cryptographic algorithm** using Python. It includes interactive encryption and decryption of plain text, RSA key generation using basic number theory concepts, and a brief report with Result.
 
 ---
 
@@ -15,7 +15,7 @@ RSA_Encryption_Decryption/
 │   └── RSA_CS22B1031_Report.pdf        # Detailed project report 
 │   
 ├── Result/ 
-│   └── RSA_CS22B1031_Results.png       # Result screenshot of RSA execution 
+│   └── RSA_CS22B1031_Result.png       # Result screenshot of RSA execution 
 │ 
 └── README.md                           # Project description and instructions
 ```
@@ -35,7 +35,7 @@ It relies on number theory, particularly the difficulty of factoring large prime
 - Encryption using public key
 - Decryption using private key
 - Fully commented and beginner-friendly code
-- Demonstration results and report included
+- Demonstration Result and report included
 
 ---
 
@@ -51,7 +51,7 @@ cd RSA_Encryption_Decryption
 ```bash
 python Code/RSA_CS22B1031_Implementation.py
 ```
-You will be prompted to enter a plaintext message or file to encrypt and will see encrypted and decrypted results.
+You will be prompted to enter a plaintext message or file to encrypt and will see encrypted and decrypted Result.
 
 ---
 
@@ -67,7 +67,7 @@ A comprehensive explanation of the RSA algorithm is available in the [`Report/RS
 
 ## 📸 Result
 
-An example result of RSA encryption is available in the [`Result/RSA_CS22B1031_Results.jpg`](Result/RSA_CS22B1031_Results.jpg) file.
+An example result of RSA encryption is available in the [`Result/RSA_CS22B1031_Result.jpg`](Result/RSA_CS22B1031_Result.jpg) file.
 
 ---
 
