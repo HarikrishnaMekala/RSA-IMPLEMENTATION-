@@ -59,7 +59,6 @@ You will be prompted to enter a plaintext message or file to encrypt and will se
 
 A comprehensive explanation of the RSA algorithm is available in the [`Report/RSA_CS22B1031_Report.pdf`](Report/RSA_CS22B1031_Report.pdf). It covers:
 - Overview
-- Block cipher design and round structure
 - Methodology
 - Applications
 - Conclusion
