@@ -67,7 +67,7 @@ A comprehensive explanation of the RSA algorithm is available in the [`Report/RS
 
 ## 📸 Result
 
-An example result of RSA encryption is available in the [`Result/RSA_CS22B1031_Result.jpg`](Result/RSA_CS22B1031_Result.jpg) file.
+An example result of RSA encryption is available in the [`Result/RSA_CS22B1031_Result.png`](Result/RSA_CS22B1031_Result.png) file.
 
 ---
 
